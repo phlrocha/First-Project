@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("O Palmeiras não tem Mundial!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
